@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on robotics and autonomous driving industry
+
+- 🌱 I’m currently learning Planning and Decision
+
+- 📫 How to reach me: dawnjeanh@gmail.com
+
 <!--
 **dawnjeanh/dawnjeanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
